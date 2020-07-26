@@ -1,0 +1,12 @@
+.Screen {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3MBg08301jz2jG9EgVXs4xBh_rwMdIEAEzg&usqp=CAU");
+    background-size: cover;
+    position: relative;
+    left: 8%;
+    top: 4.5%;
+    height: 38%;
+    width: 82%;
+    border: 2px solid black;
+    border-radius: 5%;
+  }
+  
