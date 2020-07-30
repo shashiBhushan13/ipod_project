@@ -1,5 +1,6 @@
 import React from "react";
-import "./keypad.css";
+import "../css/keypad.css";
+//component to handle keypad
 function keypad(props) {
   return (
     <div className="Keypad" id="kk">
@@ -13,7 +14,7 @@ function keypad(props) {
         src="https://img.icons8.com/ios-filled/2x/rewind.png"
         alt="back"
       ></img>
-      <img
+       <img
         id="play"
         src="https://img.icons8.com/ios-glyphs/2x/play.png"
         alt="play"

@@ -1,0 +1,54 @@
+/* keypad */
+.Keypad {
+    position: relative;
+    left: 20%;
+    top: 13%;
+    height: 36%;
+    width: 59%;
+    border: 2px solid black;
+    border-radius: 50%;
+    font-size: 30%;
+  }
+  .Keypad div {
+    font-size: 30%;
+  }
+  /* ********************************************* */
+  /* general */
+  img {
+    width: 20%;
+  }
+  #menu {
+    position: relative;
+    right: 31%;
+    top: 4%;
+  }
+  span {
+    font-size: 3vh;
+    font-weight: bold;
+  }
+  /* ************************************************* */
+  /* buttons */
+#center {
+    position: relative;
+    display: inline-block;
+    width: 35%;
+    height: 35%;
+    border: 2px solid black;
+    top: 10%;
+    border-radius: 50%;
+  }
+  #next {
+    position: relative;
+    left: 67%;
+    top: 42%;
+  }
+  #back {
+    position: relative;
+    right: 21%;
+    top: 42%;
+  }
+  #play {
+    position: relative;
+    right: 8%;
+    top: 73%;
+  }
